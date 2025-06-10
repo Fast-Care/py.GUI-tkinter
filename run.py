@@ -1,4 +1,5 @@
 import tkinter.messagebox as msgbox
+
 print("접수")
 name = input("이름을 입력하세요:")
 if not(2 < len(name) < 5):
